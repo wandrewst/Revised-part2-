@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\bin\Debug\Unit 1 Grand Circus second.exe.config
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\bin\Debug\Unit 1 Grand Circus second.exe
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\bin\Debug\Unit 1 Grand Circus second.pdb
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\obj\Debug\Unit 1 Grand Circus second.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\obj\Debug\Unit 1 Grand Circus second.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\obj\Debug\Unit 1 Grand Circus second.exe
+C:\Users\hp\source\repos\Unit 1 Grand Circus second\Unit 1 Grand Circus second\obj\Debug\Unit 1 Grand Circus second.pdb
